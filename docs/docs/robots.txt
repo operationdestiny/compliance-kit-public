@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://operationdestiny.github.io/compliance-kit-public/sitemap.xml
